@@ -4,3 +4,5 @@ Se comparten los codigos utilizados para realizar las pruebas de funcionalidad, 
 Para el empleo de la base de datos hemos seguido los pasos de los autores Q. Zhang, Q. Li, G. Yu, et al. (2019), A Multidimensional Choledoch Database and Benchmarks for Cholangiocarcinoma Diagnosis. IEEE access. 7, 149414-149421.
 Sun, L., Zhou, M., Li, Q., et al. (2021). Diagnosis of cholangiocarcinoma from microscopic hyperspectral pathological dataset by deep convolution neural networks. Methods.
 los cuales fueron los creadores del dataset y han realizado algunas pruebas adicionales.
+
+Sistema diseñado por: Miguel Talavera , Abdias Perez y Hector E Mendoza. Estudiantes de maestria , Facultad de Ingenieria Elecgtrica UTP Panamà 2022.
